@@ -1,0 +1,5 @@
+classes
+None
+Nevus(mole)
+Seborrheic Keratosis
+Melanoma
